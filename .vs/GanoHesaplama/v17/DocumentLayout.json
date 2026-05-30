@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elifnur yi\u011Fit\\OneDrive\\Desktop\\GanoHesaplama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3345B37A-4535-4D06-B5F7-DAEDB7DB8990}|GanoHesaplama.csproj|c:\\users\\elifnur yi\u011Fit\\onedrive\\desktop\\ganohesaplama\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3345B37A-4535-4D06-B5F7-DAEDB7DB8990}|GanoHesaplama.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3345B37A-4535-4D06-B5F7-DAEDB7DB8990}|GanoHesaplama.csproj|c:\\users\\elifnur yi\u011Fit\\onedrive\\desktop\\ganohesaplama\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3345B37A-4535-4D06-B5F7-DAEDB7DB8990}|GanoHesaplama.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3345B37A-4535-4D06-B5F7-DAEDB7DB8990}|GanoHesaplama.csproj|c:\\users\\elifnur yi\u011Fit\\onedrive\\desktop\\ganohesaplama\\ganohesaplama.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3345B37A-4535-4D06-B5F7-DAEDB7DB8990}|GanoHesaplama.csproj|solutionrelative:ganohesaplama.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3345B37A-4535-4D06-B5F7-DAEDB7DB8990}|GanoHesaplama.csproj|c:\\users\\elifnur yi\u011Fit\\onedrive\\desktop\\ganohesaplama\\models\\ders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3345B37A-4535-4D06-B5F7-DAEDB7DB8990}|GanoHesaplama.csproj|solutionrelative:models\\ders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3345B37A-4535-4D06-B5F7-DAEDB7DB8990}|GanoHesaplama.csproj|c:\\users\\elifnur yi\u011Fit\\onedrive\\desktop\\ganohesaplama\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3345B37A-4535-4D06-B5F7-DAEDB7DB8990}|GanoHesaplama.csproj|solutionrelative:services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3345B37A-4535-4D06-B5F7-DAEDB7DB8990}|GanoHesaplama.csproj|c:\\users\\elifnur yi\u011Fit\\onedrive\\desktop\\ganohesaplama\\views\\derseklepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3345B37A-4535-4D06-B5F7-DAEDB7DB8990}|GanoHesaplama.csproj|solutionrelative:views\\derseklepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3345B37A-4535-4D06-B5F7-DAEDB7DB8990}|GanoHesaplama.csproj|c:\\users\\elifnur yi\u011Fit\\onedrive\\desktop\\ganohesaplama\\views\\derseklepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3345B37A-4535-4D06-B5F7-DAEDB7DB8990}|GanoHesaplama.csproj|solutionrelative:views\\derseklepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3345B37A-4535-4D06-B5F7-DAEDB7DB8990}|GanoHesaplama.csproj|c:\\users\\elifnur yi\u011Fit\\onedrive\\desktop\\ganohesaplama\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3345B37A-4535-4D06-B5F7-DAEDB7DB8990}|GanoHesaplama.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\elifnur yi\u011Fit\\OneDrive\\Desktop\\GanoHesaplama\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\elifnur yi\u011Fit\\OneDrive\\Desktop\\GanoHesaplama\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T09:31:02.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\elifnur yi\u011Fit\\OneDrive\\Desktop\\GanoHesaplama\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\elifnur yi\u011Fit\\OneDrive\\Desktop\\GanoHesaplama\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-30T09:30:37.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DersEklePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\elifnur yi\u011Fit\\OneDrive\\Desktop\\GanoHesaplama\\Views\\DersEklePage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\DersEklePage.xaml.cs",
+              "ToolTip": "C:\\Users\\elifnur yi\u011Fit\\OneDrive\\Desktop\\GanoHesaplama\\Views\\DersEklePage.xaml.cs",
+              "RelativeToolTip": "Views\\DersEklePage.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T09:30:21.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DersEklePage.xaml",
+              "DocumentMoniker": "C:\\Users\\elifnur yi\u011Fit\\OneDrive\\Desktop\\GanoHesaplama\\Views\\DersEklePage.xaml",
+              "RelativeDocumentMoniker": "Views\\DersEklePage.xaml",
+              "ToolTip": "C:\\Users\\elifnur yi\u011Fit\\OneDrive\\Desktop\\GanoHesaplama\\Views\\DersEklePage.xaml",
+              "RelativeToolTip": "Views\\DersEklePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-30T09:29:02.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\elifnur yi\u011Fit\\OneDrive\\Desktop\\GanoHesaplama\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\elifnur yi\u011Fit\\OneDrive\\Desktop\\GanoHesaplama\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-30T09:28:34.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\elifnur yi\u011Fit\\OneDrive\\Desktop\\GanoHesaplama\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\elifnur yi\u011Fit\\OneDrive\\Desktop\\GanoHesaplama\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "Services\\DatabaseService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T09:26:57.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ders.cs",
+              "DocumentMoniker": "C:\\Users\\elifnur yi\u011Fit\\OneDrive\\Desktop\\GanoHesaplama\\Models\\Ders.cs",
+              "RelativeDocumentMoniker": "Models\\Ders.cs",
+              "ToolTip": "C:\\Users\\elifnur yi\u011Fit\\OneDrive\\Desktop\\GanoHesaplama\\Models\\Ders.cs",
+              "RelativeToolTip": "Models\\Ders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T09:26:09.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GanoHesaplama",
+              "DocumentMoniker": "C:\\Users\\elifnur yi\u011Fit\\OneDrive\\Desktop\\GanoHesaplama\\GanoHesaplama.csproj",
+              "RelativeDocumentMoniker": "GanoHesaplama.csproj",
+              "ToolTip": "C:\\Users\\elifnur yi\u011Fit\\OneDrive\\Desktop\\GanoHesaplama\\GanoHesaplama.csproj",
+              "RelativeToolTip": "GanoHesaplama.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-30T09:11:10.729Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

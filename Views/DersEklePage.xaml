@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<ContentPage
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="GanoHesaplama.Views.DersEklePage">
+
+    <ScrollView>
+
+        <VerticalStackLayout Padding="20">
+
+            <Entry x:Name="kod" Placeholder="Ders Kodu"/>
+            <Entry x:Name="ad" Placeholder="Ders Adı"/>
+            <Entry x:Name="saat" Placeholder="Haftalık Saat"/>
+            <Entry x:Name="akts" Placeholder="AKTS"/>
+            <Entry x:Name="donem" Placeholder="Dönem"/>
+
+            <Picker x:Name="harfNotu">
+                <Picker.Items>
+                    <x:String>AA</x:String>
+                    <x:String>BA</x:String>
+                    <x:String>BB</x:String>
+                    <x:String>CB</x:String>
+                    <x:String>CC</x:String>
+                    <x:String>DC</x:String>
+                    <x:String>DD</x:String>
+                    <x:String>FF</x:String>
+                </Picker.Items>
+            </Picker>
+
+            <Switch x:Name="ortalama"/>
+
+            <Button Text="Kaydet" Clicked="Kaydet_Clicked"/>
+
+        </VerticalStackLayout>
+
+    </ScrollView>
+
+</ContentPage>
